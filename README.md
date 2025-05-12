@@ -23,8 +23,17 @@
 
 Un sistema de gestión para revisión técnica vehicular y pago de multas, desarrollado en Java. Los usuarios pueden consultar multas, agendar revisiones, y realizar pagos. Se maneja la interacción de perfiles como Cliente Estándar, Cliente Estrella y Operador, utilizando archivos de texto para almacenar datos.
 
-- **Tecnologías:** Java, POO, Archivos `.txt`, Git.
-- **Estado:** Completo.
+- **Tecnologías Utilizadas:**
+  - **Java**: Desarrollo de la lógica de la aplicación.
+  - **Git**: Control de versiones para el proyecto.
 
+### Aplicación de Autoservicio para Heladería
 
+Desarrollo de una aplicación para máquinas de autoservicio en una heladería. El cliente puede elegir y pagar por su helado, eligiendo base, sabores y toppings. La aplicación está diseñada para ser interactiva, mostrando un resumen del pedido y permitiendo pagos en efectivo o con tarjeta de crédito.
+
+- **Tecnologías Utilizadas:**
+  - **Java**: Desarrollo de la lógica de la aplicación.
+  - **JavaFX**: Interfaz gráfica de usuario (GUI) para la aplicación de autoservicio.
+  - **CSS**: Estilo y diseño visual de la interfaz.
+  - **Git**: Control de versiones para el proyecto.
 
