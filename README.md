@@ -1,13 +1,23 @@
-## Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.👋
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Información personal
-* Nombre: Espinoza Ortiz Nahin
-* Ocupación: Estudiante en Espol
-* Lugar de residencia: Guayaquil, Ecuador 
-  
-## Proyectos
+# 🚀 Portafolio de Nahin Espinoza
 
-## Intereses
+¡Bienvenido a mi repositorio personal! Aquí encontrarás una recopilación de mis proyectos más relevantes, tecnologías que domino, y formas de contactarme.
+
+## 📫 Contacto
+
+- Correo institucional: [nahiespi@espol.edu.ec](mailto:nahiespi@espol.edu.ec)
+- GitHub: [@nahinespinoza](https://github.com/nahinespinoza)
+
+---
+
+## 🧠 Tecnologías que domino
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+---
+
+## 🚧 Proyectos En desarrollo
+
+
+
+
+
