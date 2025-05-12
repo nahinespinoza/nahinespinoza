@@ -59,4 +59,11 @@ Desarrollo de una aplicación interactiva para máquinas de autoservicio en una 
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahinespinoza&show_icons=true&theme=dark)
+
+## 🧑‍💻 Lenguajes más utilizados
+
+![Lenguajes de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=nahinespinoza&layout=compact&theme=dark)
 
