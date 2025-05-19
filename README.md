@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&vCenter=true&width=435&lines=+%C2%A1Hola%2C+Soy+Nahin+Espinoza!+%F0%9F%A6%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&vCenter=true&width=600&lines=+%C2%A1Hola%2C+Soy+Nahin+Espinoza!+%F0%9F%A6%9D" alt="Typing SVG" /> 
   </a>
 </p>
+
 
 
 <p align="center">
