@@ -1,4 +1,13 @@
-# 🚀 Portafolio de Nahin Espinoza
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&width=435&lines=+%C2%A1Hola%2C+Soy+Nahin+Espinoza!+%F0%9F%A6%9D" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/6e/7d/f96e7d2ca7accfb8b6185859afee09b3.gif" alt="gif animado" width="250" />
+</p>
+
 
 ¡Bienvenido a mi repositorio personal! Aquí encontrarás una recopilación de mis proyectos más relevantes, tecnologías que domino, y formas de contactarme.
 
@@ -6,18 +15,49 @@
 
 - Correo institucional: [nahiespi@espol.edu.ec](mailto:nahiespi@espol.edu.ec)
 - GitHub: [@nahinespinoza](https://github.com/nahinespinoza)
+- Linkedin: [Nahin Isaias Espinoza Ortiz
+](https://www.linkedin.com/in/nahin-isaias-espinoza-ortiz-1215aa304/)
 
 ---
 
 ## 🧠 Tecnologías que domino
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="pandas" width="90" height="40" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  </a>
 </p>
----
+
 
 ## 🚧 Proyectos En desarrollo
 
@@ -25,12 +65,7 @@
 
 Un sistema de gestión para revisión técnica vehicular y pago de multas, desarrollado en **Java**. Los usuarios pueden consultar multas, agendar revisiones y realizar pagos. El sistema maneja tres perfiles de usuarios: **Cliente Estándar**, **Cliente Estrella** y **Operador**. Se emplea un manejo de datos a través de archivos de texto, lo que permite consultar multas, realizar pagos y programar revisiones.
 
-- **Características Principales:**
-  - 👤 **Perfiles de usuario**: Cada perfil tiene acceso a funcionalidades específicas.
-  - 📅 **Agendar revisiones**: Permite a los usuarios agendar citas para revisiones técnicas.
-  - 💸 **Pago de multas**: Los usuarios pueden consultar y pagar las multas asociadas a sus vehículos.
-  - 🔒 **Seguridad**: Autenticación de usuarios y validación de acceso mediante credenciales.
-  
+
 - **Tecnologías Utilizadas:**
   - **Java**: Programación orientada a objetos para el desarrollo de la lógica.
   - **Git**: Control de versiones y colaboración mediante GitHub.
@@ -42,12 +77,6 @@ Un sistema de gestión para revisión técnica vehicular y pago de multas, desar
 ### 🍦 **Aplicación para Heladería**
 
 Desarrollo de una aplicación interactiva para máquinas de autoservicio en una heladería. Los clientes pueden elegir y personalizar su helado seleccionando la base, los sabores y los toppings, todo mientras se calcula el costo en tiempo real. La aplicación también permite seleccionar el método de pago, ya sea en **efectivo** o con **tarjeta de crédito**.
-
-- **Características Principales:**
-  - 🍧 **Personalización del helado**: El cliente puede elegir la base, sabores y toppings.
-  - 💳 **Métodos de pago**: Pago en efectivo o con tarjeta de crédito, con validación de datos.
-  - 🛍️ **Resumen y confirmación del pedido**: El cliente revisa y confirma su pedido antes de realizar el pago.
-  - ⏲️ **Interfaz dinámica**: La ventana de pedidos se actualiza cada 5 segundos para mostrar los pedidos en tiempo real.
 
 - **Tecnologías Utilizadas:**
   - **Java**: Desarrollo de la lógica de la aplicación.
@@ -61,9 +90,12 @@ Desarrollo de una aplicación interactiva para máquinas de autoservicio en una 
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nahinespinoza&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahinespinoza&show_icons=true&theme=dark&border_radius=10&hide_border=false" alt="Estadísticas de GitHub" />
+</p>
 
 ## 🧑‍💻 Lenguajes más utilizados
 
-![Lenguajes de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=nahinespinoza&layout=compact&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahinespinoza&layout=compact&theme=dark&border_radius=10&hide_border=false" alt="Lenguajes de GitHub" />
+</p>
