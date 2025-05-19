@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&center=true&vCenter=true&width=435&lines=+%C2%A1Hola%2C+Soy+Nahin+Espinoza!+%F0%9F%A6%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=30&pause=1000&vCenter=true&width=435&lines=+%C2%A1Hola%2C+Soy+Nahin+Espinoza!+%F0%9F%A6%9D" alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f9/6e/7d/f96e7d2ca7accfb8b6185859afee09b3.gif" alt="gif animado" width="250" />
@@ -11,12 +12,7 @@
 
 ¡Bienvenido a mi repositorio personal! Aquí encontrarás una recopilación de mis proyectos más relevantes, tecnologías que domino, y formas de contactarme.
 
-## 📫 Contacto
 
-- Correo institucional: [nahiespi@espol.edu.ec](mailto:nahiespi@espol.edu.ec)
-- GitHub: [@nahinespinoza](https://github.com/nahinespinoza)
-- Linkedin: [Nahin Isaias Espinoza Ortiz
-](https://www.linkedin.com/in/nahin-isaias-espinoza-ortiz-1215aa304/)
 
 ---
 
@@ -59,7 +55,7 @@
 </p>
 
 
-## 🚧 Proyectos En desarrollo
+## 🚧 Proyectos 
 
 ### 🚗 **Servicios Vehiculares**
 
@@ -98,4 +94,17 @@ Desarrollo de una aplicación interactiva para máquinas de autoservicio en una 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahinespinoza&layout=compact&theme=dark&border_radius=10&hide_border=false" alt="Lenguajes de GitHub" />
+</p>
+
+## 📫 Contacto
+<p align="center">
+  <a href="mailto:nahiespi@espol.edu.ec" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Gmail" />
+  </a>
+  <a href="https://github.com/nahinespinoza" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nahin-isaias-espinoza-ortiz-1215aa304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
